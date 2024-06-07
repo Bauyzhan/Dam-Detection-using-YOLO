@@ -3,4 +3,4 @@
 
 2)There is total of 1366 images(train set: 1230, valid set: 110 , test set : 26).
 
-3)Performed object detection using YOOLO v-8.
+3)Performed object detection using YOLO v-8.
